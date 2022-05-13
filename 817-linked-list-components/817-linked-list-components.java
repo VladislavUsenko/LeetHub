@@ -13,20 +13,19 @@ class Solution {
         
         if (head == null) return 0;
 
-        TreeMap<Integer, Integer> numsMap = new TreeMap<>();
+        Set<Integer> numsSet = new HashSet<>();
+        for (int i : nums) numsSet.add(i);
+
         int count = 0;
         boolean node = false;
-        for (int i: nums) {
-            numsMap.put(i,0);
-        }
 
         while (head != null) {
-            if (numsMap.containsKey(head.val) && !node) {
+            if (numsSet.contains(head.val) && !node) {
                 node = true;
                 count++;
             }
 
-            if (!numsMap.containsKey(head.val)) node = false;
+            if (!numsSet.contains(head.val)) node = false;
 
             head = head.next;
         }
