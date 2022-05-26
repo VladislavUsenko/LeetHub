@@ -1,15 +1,14 @@
 class Solution {
-    public int[] sumZero(int n) {
-        
-    int[] arr = new int[n];
+     public static int[] sumZero(int n) {
+
+        int[] arr = new int[n];
 
         int i = 0;
-        while(i < n) {
-            arr[i] = i;
-            arr[n-i -1] = -i;
+        while (i < n / 2) {
+            arr[i] = i + 1;
+            arr[n - i - 1] = -(i + 1);
             i++;
         }
-        if (n % 2 != 0) arr[n/2] = 0;
 
         return arr;
     }
