@@ -1,32 +1,36 @@
 class Solution {
-    public int numIslands(char[][] grid) {
+    
+   char[][] map;
+    
+   public int numIslands(char[][] grid) {
 
-        int count = 0;
+        int result = 0;
 
-        for (int i =0; i < grid.length; i++) {
+        map = grid;
+
+        for(int i = 0; i < grid.length; i++) {
             for (int j = 0; j < grid[i].length; j++) {
-                if (grid[i][j] == '1') {
-                    count += 1;
-                    replaceIsland(grid, i, j);
+
+                if (grid[i][j] == '1'){
+                    result += 1;
+                    replaceGrid(i, j);
                 }
             }
         }
 
-        return count;
+        return result;
     }
 
-    public void replaceIsland(char[][] grid, int i, int j) {
+    private void replaceGrid(int i, int j){
 
-        if (i >= 0 &&
-            j >= 0 &&
-            i < grid.length &&
-            j < grid[0].length &&
-            grid[i][j] == '1') {
-            grid[i][j] = '2';
-            replaceIsland(grid, i + 1, j);
-            replaceIsland(grid, i, j + 1);
-            replaceIsland(grid, i - 1, j);
-            replaceIsland(grid, i, j - 1);
+        if (i >= 0 && i < map.length
+                && j >= 0 && j < map[0].length
+                && map[i][j] != '0') {
+            map[i][j] = '0';
+            replaceGrid(i + 1, j);
+            replaceGrid(i, j + 1);
+            replaceGrid(i, j - 1);
+            replaceGrid(i - 1, j);
         }
     }
 }
