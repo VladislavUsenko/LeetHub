@@ -18,7 +18,6 @@ class Solution {
     			if(!subS.equals(s.substring(j * i, i + j * i))) break;
     		}
     		if(j == m) return true;
-    		
     	}
     	return false;
     }
