@@ -1,3 +1,5 @@
+import java.util.TreeSet;
+
 class Solution {
 
     public static void main(String[] args) {
@@ -5,36 +7,21 @@ class Solution {
         System.out.println(nthUglyNumber(5, 2, 11, 13));
     }
 
-    public static int target = 2;
-
+    
     public static int nthUglyNumber(int n, int a, int b, int c) {
-
-        int i = 1;
-
-        int[] arr = new int[n + 1];
-        int index = 0;
-        while (n > 0) {
-            i++;
-            if (isUgly(i, a, b, c) == 1) {
-                arr[index++] = i;
-                n--;
-            }
-        }
         
-        return i;
-    }
+        TreeSet<Integer> set = new TreeSet<>();
 
-    public static int maxDivide(int a, int b) {
-        while (a % b == 0)
-            a = a / b;
-        return a;
-    }
+        set.add(1);
+        for (int i = 1; i < n; i++) {
+            int l = set.pollFirst();
+            set.add(l * a);
+            set.add(l * b);
+            set.add(l * c);
+        }
 
-    public static int isUgly(int no, int a, int b, int c) {
-        no = maxDivide(no, a);
-        no = maxDivide(no, b);
-        no = maxDivide(no, c);
- 
-        return (no == 1) ? 1 : 0;
+        set.pollFirst();
+
+        return set.first();
     }
 }
