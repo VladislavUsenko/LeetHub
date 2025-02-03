@@ -5,7 +5,7 @@ class Solution {
     public static void main(String[] args) {
         String s = "jxhwaysa";
 
-        System.out.println("---------------");
+        System.out.println("++++++++++++++++");
         System.out.println(longestIdealString(s, 14) );
     }
 
