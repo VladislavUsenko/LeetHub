@@ -34,8 +34,6 @@ class Solution {
 
         int[] res = new int[2];
 
-        System.out.println(Arrays.toString(map));
-
         for (int i = 1; i < map.length; i++) {
             if (map[i] == 0) res[1] = i;
             if (map[i] == 2) res[0] = i;
