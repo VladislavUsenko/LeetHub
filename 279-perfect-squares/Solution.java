@@ -8,8 +8,7 @@ static boolean isPerfectSquare(int N)
     return (N == floorSqrt * floorSqrt);
 }
 
-static boolean legendreFunction(int N)
-{
+static boolean legendreFunction(int N) {
      
     while (N % 4 == 0)
         N /= 4;
