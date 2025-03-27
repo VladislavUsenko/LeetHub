@@ -20,8 +20,6 @@ class Solution {
             max = Math.max(max, i);
         }
 
-        System.out.println(max);
-
         for(int i : candies) {
             result.add(i + extraCandies >= max);
         }
