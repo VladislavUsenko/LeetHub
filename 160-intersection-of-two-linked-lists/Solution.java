@@ -10,7 +10,7 @@
  * }
  */
 public class Solution {
-    public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
+    public static ListNode getIntersectionNode(ListNode headA, ListNode headB) {
         
         //if( null==headA || null==headB ) return null;
         if (headA == headB) return headA;
