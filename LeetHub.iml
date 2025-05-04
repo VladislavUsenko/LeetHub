@@ -3,60 +3,157 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/1-two-sum" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/100-same-tree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/104-maximum-depth-of-binary-tree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1137-tribonacci-number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1189-maximum-numbers-of-balloons" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1201-ugly-number-3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1207-unique-number-of-occurrences" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/121-best-time-to-buy-and-sell-stock" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/122-best-time-to-buy-and-sell-stock-ii" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/1232-check-if-it-is-a-straight-line" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/125-valid-palindrome" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1252-cells-with-odd-values-in-a-matrix" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/1268-search-suggestions-system" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/1275-find-winner-on-a-tic-tac-toe-game" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/13-roman-to-integer" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/1304-find-n-unique-integers-sum-up-to-zero" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1337-the-k-weakest-rows-in-a-matrix" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1342-number-of-steps-to-reduce-a-number-to-zero" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/135-candy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/136-single-number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/138-copy-list-with-random-pointer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1381-design-a-stack-with-increment" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/139-word-break" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/14-longest-common-prefix" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1431-kids-with-the-greatest-number-of-candies" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/146-lru-cash" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1470-shuffle-the-array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/148-sort-list" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/1491-average-salary-excluding-the-minimum-and-maximum-salary" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/151-reverse-words-in-a-string" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/1512-number-of-good-pairs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/155-min-stack" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1598-crawler-log-folder" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/160-intersection-of-two-linked-lists" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/1603-design-parking-system" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1657-determine-if-two-strings-are-close" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1673-find-the-most-competitive-sub" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/169-majority-element" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/1748-sum-of-unique-elements" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/1763-longest-nice-substring" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1768-merge-strings-altermately" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/1822-sign-of-the-product-of-an-array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/189-rotate-array" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/190-reverse-bits" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/1929-concatenation-of-array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1953-maximum-number-of-weeks" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/20-valid-parentheses" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/200-number-of-islands" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/202-happy-number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/205-isomorphic-string" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2079-watering-plants" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/21-merge-two-sorted-lists" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2104-sum-of-subarray-ranges" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2105-watering-plants-ii" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2130-maximum-twin-sum-of-a-linked-list" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2133-check-if-every-row-and-column-all-numbers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2170-minimum-operations-to-make-the-array-alternating" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2178-maximum-split-of-positive-even-integers" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/219-contains-duplicate-II" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2215-find-the-difference-of-tv" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/222-count-complete-tree-nodes" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/226-invert-binary-tree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2262-total-appeal-of-a-string" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/228-summary-ranges" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/23-merge-k-sorted-lists" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/232-implement-queue-using-stacks" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/234-palindrome-linked-list" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2352-equal-row-and-column-pairs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2370-longest-ldeal-subsequence" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/238-product-of-array-except-self" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/24-swap-nodes-in-pairs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/242-valid-anagram" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2437-number-of-valid-clock-times" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/247-h-index" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/258-add-digits" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/26-remove-duplicates-from-sorted-array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/263-ugly-number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/264-ugly-number-ii" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/27-remove-element" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2785-sort-vowels-in-a-string" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/279-perfect-squares" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/28-find-the-index-of-first-ocurrence-in-a-string" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/283-move-zeroes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/289-game-of-life" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/290-word-pattern" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/292-nim-game" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2965-find-missing-and-repeated" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/3-longest-substring-without-repeating-characters" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/334-Increasing-triplet-subsequence" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/344-reverse-string" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/345-reverse-vowels-of-a-string" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/36-valid-sudoku" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/368-largest-divisible-subset" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/373-find-k-pairs-with-smallest-sums" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/380-insert-del-get-random" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/383-ransom-note" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/392-is-subsequence" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/404-sum-of-left-leaves" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/438-find-all-anagrams-in-a-string" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/459-repeated-substring-pattern" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/46-permutations" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/460-lfu-cache" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/494-target-sum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/508-most-frequent-subtree-sum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/53-max-subarray" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/55-jump-game" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/557-reverse-words-in-a-string-iii" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/561-array-partition" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/57-insert-interval" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/572-subtree-of-another-tree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/58-lenght-of-last-word" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/6-zigzag-conversion" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/605-can-place-flowers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/641-dexign-circular-deque" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/643-maximum-average-subarray-i" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/649-dota2-senate" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/66-plus-one" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/682-baseball-game" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/69-sqrt-x" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/700-searck-in-a-binary-search-tree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/704-binary-search" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/725-split-linked-list-in-parts" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/76-minimum-window-substring" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/779-kth-symbol-in-grammar" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/80-remove-duplicates-from-sorted-array-iii" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/817-linked-list-components" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/82-remove-dubs-from-sorted-list-ii" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/83-remove-dubs-linked-list" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/833-find-and-replace-in-string" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/844-backspace-string-compare" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/856-score-of-parentheses" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/86-partition-list" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/88-merge-sorted-array" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/9-palindrome-number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/912-sort-an-array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/929-unique-email-addresses" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/94-binary-tree-inorder-traversal" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/96-unique-binary-search-trees" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/966-vowel-spellchecker" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/add-two-numbers" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/binary-tree-inorder-traversal" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/binary-tree-level-order-traversal" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/binary-tree-postorder-traversal" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/binary-tree-preorder-traversal" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/design-linked-list" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/intersection-of-two-linked-lists" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/highlight" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/linked-list-cycle" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/linked-list-cycle-ii" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/max-in-cyclically-sorted-array" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/maximum-depth-of-binary-tree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/merge-two-sorted-lists" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/odd-even-linked-list" isTestSource="false" />
@@ -66,10 +163,10 @@
       <sourceFolder url="file://$MODULE_DIR$/remove-nth-node-from-end-of-list" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/reverse-linked-list" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rotate-list" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/snail-trail" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/symmetric-tree" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="Litcode" />
   </component>
 </module>
