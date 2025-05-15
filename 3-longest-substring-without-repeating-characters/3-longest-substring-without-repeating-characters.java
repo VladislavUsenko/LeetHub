@@ -1,5 +1,14 @@
+import java.util.HashSet;
+import java.util.Set;
+
 class Solution {
-    public int lengthOfLongestSubstring(String s) {
+
+    public static void main(String[] args) {
+        
+        System.out.println(lengthOfLongestSubstring("abcabcbb"));
+    }
+
+    public static int lengthOfLongestSubstring(String s) {
         
         if (s.length() < 2) return s.length();
 
