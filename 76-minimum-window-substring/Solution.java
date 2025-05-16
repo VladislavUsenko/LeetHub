@@ -11,7 +11,7 @@ class Solution {
 
     public static String minWindow(String s, String p) {
 
-        if (p.length() > s.length()) return "";
+        if (p.length() > s.length()) return ""; 
 
         HashMap<Character, Integer> map = new HashMap<>();
         for (char c : p.toCharArray()) {
