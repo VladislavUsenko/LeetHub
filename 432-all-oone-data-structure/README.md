@@ -4,7 +4,7 @@
 
 - How much time have I spent, end-to-end? 
     
-    **3:30 hours**
+    **3 hours, 30 minutes**
 
 - What were the trickiest aspects? Where did I lose the most time?
 
