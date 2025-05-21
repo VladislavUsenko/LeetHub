@@ -9,8 +9,19 @@
  *     }
  * }
  */
+
+
+
 public class Solution {
-    public ListNode detectCycle(ListNode head) {
+
+    public static void main(String[] args) {
+        
+        ListNode head = new ListNode(new int[]{3,2,0,-4});
+        head.madeLoop(1);
+        System.out.println(detectCycle(head));
+    }
+
+    public static ListNode detectCycle(ListNode head) {
         
         ListNode walker = head;
         ListNode runner = head;
