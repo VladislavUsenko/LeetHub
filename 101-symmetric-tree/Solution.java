@@ -14,14 +14,23 @@
  * }
  */
 class Solution {
-    public boolean isSymmetric(TreeNode root) {
+
+    public static void main(String[] args) {
         
-        
+        TreeNode root = new TreeNode(1, new TreeNode(2), new TreeNode(3));
+
+
+        System.out.println("------------------");
+        System.out.println(isSymmetric(root));
+    }
+
+
+    public static boolean isSymmetric(TreeNode root) {
         return isMirror(root, root);
     }
     
     
-    public boolean isMirror(TreeNode first, TreeNode second) {
+    public static boolean isMirror(TreeNode first, TreeNode second) {
         if (first == null && second == null) {
             return true;
         }
