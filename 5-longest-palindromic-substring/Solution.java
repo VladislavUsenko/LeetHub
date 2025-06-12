@@ -30,7 +30,7 @@ class Solution {
             }
         }
 
-        return result;
+        return result == "" ? new String(new char[]{s.charAt(0)}) : result;
     }
 
     private static String checkEvenPalindrome(
@@ -44,8 +44,6 @@ class Solution {
             palindore.addFirst(chars[start--]);
             palindore.addLast(chars[end++]);
         }
-
-        System.out.println(palindore);
 
         if (palindore.size() > result.length()) {
                     
