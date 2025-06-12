@@ -1,7 +1,7 @@
 import java.util.*;
 import java.util.regex.Pattern;
 
-class Solution1 {
+class Solution {
 
     public static void main(String[] args) {
         
@@ -28,7 +28,7 @@ class Solution1 {
             }
         }
 
-        System.out.println(letters);
+        //System.out.println(letters);
 
         letters = sortByValue(letters);
 
